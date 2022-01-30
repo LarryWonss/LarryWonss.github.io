@@ -2,7 +2,6 @@
 
 > 欢迎入坑软路由，本Wiki将整合目前软路由的各种折腾教程，以方便各位新入坑小伙伴学习使用。欢迎收藏、点赞与分享。
 
-![image-20220130193240801](https://iswott.oss-cn-shenzhen.aliyuncs.com/blog/imgimage-20220130193240801.png)
 
 `本Wiki对应讨论群组：`
 
