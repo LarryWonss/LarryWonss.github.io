@@ -28,6 +28,11 @@
   - [3.5 FreeNet网络设置](/高级玩法/FreeNet网络设置.md)
   - 3.6 虚拟机
     - [3.6.1 ESXi虚拟机安装以及OpenWrt安装](/高级玩法/ESXI虚拟机的安装｜在ESXi中安装OpenWrt.md)
+
+- 选购指南「持续更新」
+  - [2022.02推荐](/选购指南/选购指南.md)
+
+
 - **加入讨论群**
   - [Telegram](/加入讨论群/telegram.md)
   - [QQ群](/加入讨论群/qq.md)
