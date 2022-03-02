@@ -1,14 +1,15 @@
 # Buying Guide & Recommendation
 
-> **NOTE: **I wrote this article to let you know about the products, And I sell the pfsense appliance as well.
+> **NOTE: ** I wrote this article to let you know about the products, And I sell the pfsense appliance as well.
 
 The appliance with **4 intel i225 (2.5G) Ethernet ports & DUAL memory slot** version must be the one of the hottest products recently in CHINA.
 
 <hr>
+
 **INFO:**
 
-1. **There're almost 10 version of Mother Board with Celeron J4125：**
 
+1. **There're almost 10 version of Mother Board with Celeron J4125：**
    - Single memory slot with Intel i211 NICs version;
    - Dual memory slot with Intel i211 NICs version;
    - Single memory slot with Intel i210 NICs version;
@@ -21,7 +22,7 @@ The appliance with **4 intel i225 (2.5G) Ethernet ports & DUAL memory slot** ver
 
 2. **How to choose your pfsense appliance:**
 
-   - **Memory Slot: **Dual is better than Single
+   - **Memory Slot:** Dual is better than Single
    - **NICs:** Intel i225 > Intel 210 > Intel i211
 
 3. **How to buy:**
@@ -33,7 +34,7 @@ The appliance with **4 intel i225 (2.5G) Ethernet ports & DUAL memory slot** ver
 
 **Datasheet of the mainboard：**
 
-> 推荐原则：`由于电子产品更新换代较为快速，这里会注明推荐时间节点！`
+> Info：`The following data is tested by myself.`
 
 |                       Model                       |                  Pfsense appliance -  10th                   |                   Pfsense appliance - 11th                   |
 | :-----------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
