@@ -39,9 +39,9 @@ The appliance with **4 intel i225 (2.5G) Ethernet ports & DUAL memory slot** ver
 |                       Model                       |                  Pfsense appliance -  10th                   |                   Pfsense appliance - 11th                   |
 | :-----------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 |                        CPU                        |                         Intel J4125                          |              Intel 6305U、i5-1135G7、i7-1165G7               |
-|                      Memory                       | Dual DDR4 SDIMM Slot, Support 2133/2400 Hz, max 16GB(`Single 16GB is not work`) | Dual DDR4 SDIMM Slot, Support 2133/2400/2933/3200 Hz, max 64GB(`32GB+32GB`) |
+|                      Memory                       | Dual DDR4 SDIMM Slot, Support 2133/2400 Hz, max 16GB(`Single 16GB doesn't work`) | Dual DDR4 SDIMM Slot, Support 2133/2400/2933/3200 Hz, max 64GB(`32GB+32GB`) |
 |                       NICs                        |               4 x Intel i225 2.5G（2500 Mbps）               |               6 x Intel i210 1G（1000  Mbps）                |
-|                      Storage                      | 1 x mSATA 、  1 x SATA3 2.5 inch（`Ba ck-mounted, built in`） | 1 x mSATA 、  1 x SATA3 2.5 inch`Ba ck-mounted, built in`）  |
+|                      Storage                      | 1 x mSATA 、  1 x SATA3 2.5 inch（`Back-mounted, built in`） |  1 x mSATA 、  1 x SATA3 2.5 inch`Back-mounted, built in`）  |
 |                        IO                         | 1 x miniCPIe，Support PCIE & USB protocol, expandable WiFi module and 4G module | 1 x miniCPIe，Support PCIE protocol, expandable WiFi module and 4/5G module |
 |                        TDP                        |                             10W                              |    6305: 15W<br />i5-1135G7: 28W<br />i7-1165G7: max 50W     |
 |                     SIM Slot                      |                     YES，on the CPU side                     |                     YES，Under the mSATA                     |
