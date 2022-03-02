@@ -9,12 +9,15 @@ The appliance with **4 intel i225 (2.5G) Ethernet ports & DUAL memory slot** ver
 
 1. **There're almost 10 version of Mother Board with Celeron J4125：**
 
-   - Single memory slot with intel i211 NIC version;
-   - Dual memory slot with intel i211 NIC version;
-   - Single memory slot with intel i210 NIC version;
-   - Dual memory slot with intel i210 NIC version;
-   - Single memory slot with intel i225 NIC version;
-   - Dual memory slot with intel i225 NIC version ——**THE BEST ONE！**
+   - Single memory slot with Intel i211 NICs version;
+   - Dual memory slot with Intel i211 NICs version;
+   - Single memory slot with Intel i210 NICs version;
+   - Dual memory slot with Intel i210 NICs version;
+   - Single memory slot with Intel i225 NICs version;
+   - Dual memory slot with Intel i225 NICs version ——**THE BEST ONE！**
+   - Dual memory slot with 4 RTL815B (2.5G) NICs & M.2 Slot for storage version —— Works unstablely due to NICs
+   - Other versions
+
 
 2. **How to choose your pfsense appliance:**
 
