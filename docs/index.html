@@ -1,27 +1,108 @@
 <!DOCTYPE html>
-<html lang="zh">
+<html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Document</title>
+  <title>OpenWrt简明教程</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Description">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  <link rel="stylesheet" href="unpkg.com/@fortawesome/fontawesome-free/css/fontawesome.css" />
+  <link rel="stylesheet" href="unpkg.com/@fortawesome/fontawesome-free/css/brands.css" />
+  <link rel="stylesheet" href="unpkg.com/@fortawesome/fontawesome-free/css/regular.css" />
+  <link rel="stylesheet" href="unpkg.com/@fortawesome/fontawesome-free/css/solid.css" />
 </head>
 <body>
   <div id="app"></div>
   <script>
     window.$docsify = {
-      name: 'OpenWrt简明教程',
-      //repo: 'https://github.com/LarryWonss/LarryWonss.github.io',
       loadSidebar: true,
-      //auto2top: true,
-      themeColor:'green',
-      
-      
+      alias: {
+          '/.*/_sidebar.md': '/_sidebar.md',
+        },
+      subMaxLevel: 3,
+      themeColor: 'red',
+      auto2top: true,
+      maxLevel: 4,
+      name: '<span>OpenWrt - 中文</span>',
+      ga: 'UA-200257738-3',
+      agination: {
+        previousText: '上一节',
+        nextText: '下一节',
+        crossChapter: true,
+        crossChapterText: true,
+      },
+      repo: '',
+      share: {
+        reddit: true,
+        linkedin: true,
+        facebook: true,
+        twitter: true,
+        whatsapp: true,
+        telegram: true,
+      },
+      timeUpdater: {
+        text: ">最后更新时间: {docsify-updated}",
+        formatUpdated: "{YYYY}/{MM}/{DD}",
+      },
+      count:{
+        countable: true,
+        position: 'top',
+        margin: '10px',
+        float: 'right',
+        fontsize:'0.9em',
+        color:'rgb(90,90,90)',
+        language:'chinese',
+        localization: {
+          words: "",
+          minute: ""
+        },
+        isExpected: true
+      },
+      'flexible-alerts': {
+        note: {
+          label: "备注信息"
+        },
+        tip: {
+          label: "雕虫小技"
+        },
+        warning: {
+          label: "温馨提示"
+        },
+        attention: {
+          label: "注意事项"
+        }
+      },
+      footer: {
+        copy: '<span>OpenWrt - 中文教程 &copy; 2022</span>',
+        auth: 'by Internet',
+        pre: '<hr/>',
+        style: 'text-align: center;',
+        class: 'className',
+      },
+      progress: {
+        position: "top",
+        color: "var(--theme-color,#42b983)",
+        height: "3px",
+      }
     }
   </script>
   <!-- Docsify v4 -->
+  <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/ga.min.js"></script>
+  <script src="//unpkg.com/docsify-share/build/index.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-copy-code/dist/docsify-copy-code.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-updated@1/src/time-updater.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-count@latest/dist/countable.min.js"></script>
+  <script src="https://unpkg.com/docsify-plugin-flexible-alerts"></script>
+  <script src="//unpkg.com/docsify-fontawesome/dist/docsify-fontawesome.min.js"></script>
+  <script src="//unpkg.com/docsify-footer-enh/dist/docsify-footer-enh.min.js"></script>
+  <script src="//cdn.jsdelivr.net/npm/docsify-sidebar-collapse/dist/docsify-sidebar-collapse.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/docsify-progress@latest/dist/progress.min.js"></script>
+
 </body>
 </html>
+
+
+
