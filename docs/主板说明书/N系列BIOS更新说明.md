@@ -24,6 +24,7 @@
 2. 将下载的BIOS文件（.zip格式）解压出来的到`EFI` 文件夹；[![](https://img.shields.io/badge/下载-BIOS-brightgreen)](/主板说明书/BIOS for N5105/N5095/N6005 2022/03/30 Updated.zip)
 3. 将`EFI`文件夹的`所有文件`复制到优盘`根目录`;
 4. 机器上电后，按`F7`进入bios刷写界面；
+    
     ![](https://iswott.oss-cn-shenzhen.aliyuncs.com/blog/img1648624041289258.png)
 5. 选择UEFI：`U盘（UEFI + U盘名称）`选项
 6. 进入到`UEFI：U盘`后，按`1`进行烧录；
