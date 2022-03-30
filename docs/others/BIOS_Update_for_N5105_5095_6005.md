@@ -20,14 +20,24 @@
 
 **更新教程**[![](https://img.shields.io/badge/下载-BIOS-brightgreen)](https://github.com/LarryWonss/LarryWonss.github.io/raw/main/docs/others/BIOS_for_N5105_N5095_N6005%202022_03_30_Updated.zip)
 
-1. 将优盘格式化成`FAT32`格式；
+1. 将优盘格式化成`FAT32` 的DOS盘；
+
+    - 格式化工具下载：[![](https://img.shields.io/badge/下载-格式化工具-brightgreen)](https://github.com/LarryWonss/LarryWonss.github.io/blob/main/docs/others/HP%E4%BC%98%E7%9B%98%E5%90%AF%E5%8A%A8%E7%9B%98%E6%A0%BC%E5%BC%8F%E5%8C%96%E5%B7%A5%E5%85%B7.zip)
+    - 格式化步骤：
+      ![使用说明图解](https://s2.loli.net/2022/03/30/GLehRtDQarxkow2.png)
+
 2. 将下载的BIOS文件（.zip格式）解压出来的到`EFI` 文件夹；[![](https://img.shields.io/badge/下载-BIOS-brightgreen)](https://github.com/LarryWonss/LarryWonss.github.io/raw/main/docs/others/BIOS_for_N5105_N5095_N6005%202022_03_30_Updated.zip)
+
 3. 将`EFI`文件夹的`所有文件`复制到优盘`根目录`;
+
 4. 机器上电后，按`F7`进入bios刷写界面；
    
-    ![](https://iswott.oss-cn-shenzhen.aliyuncs.com/blog/img1648624041289258.png)
+    ![](https://s2.loli.net/2022/03/30/fhQ95XmiMlcNxRE.png)
+    
 5. 选择UEFI：`U盘（UEFI + U盘名称）`选项
+
 6. 进入到`UEFI：U盘`后，按`1`进行烧录；
+
 7. 等待**自动烧录完成**（会出现sucessful相关字样），重启主机即可完成更新
 
 > [!warning]
