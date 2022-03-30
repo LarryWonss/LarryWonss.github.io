@@ -54,7 +54,7 @@
   
   
   - 说明书
-      - [![](https://img.shields.io/badge/点击-下载-orange)](https://github.com/LarryWonss/LarryWonss.github.io/blob/main/docs/others/1090NP(J4125)-12%20%20V1.3y%20%E8%A7%84%E6%A0%BC%E4%B9%A6.pdf) **[1090NP(J4125)说明书](https://github.com/LarryWonss/LarryWonss.github.io/blob/main/docs/others/1090NP(J4125)-12%20%20V1.3y%20%E8%A7%84%E6%A0%BC%E4%B9%A6.pdf)**
+      - [![](https://img.shields.io/badge/点击-下载-orange)]([https://raw.githubusercontent.com/LarryWonss/LarryWonss.github.io/main/docs/others/1090NP(J4125)-12%20%20V1.3y%20%E8%A7%84%E6%A0%BC%E4%B9%A6.pdf](https://raw.githubusercontent.com/LarryWonss/LarryWonss.github.io/main/docs/others/1090NP(J4125)-12  V1.3y 规格书.pdf)) **[1090NP(J4125)说明书]([https://raw.githubusercontent.com/LarryWonss/LarryWonss.github.io/main/docs/others/1090NP(J4125)-12%20%20V1.3y%20%E8%A7%84%E6%A0%BC%E4%B9%A6.pdf](https://raw.githubusercontent.com/LarryWonss/LarryWonss.github.io/main/docs/others/1090NP(J4125)-12  V1.3y 规格书.pdf))**
 
 
 - **加入讨论群**
