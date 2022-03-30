@@ -54,7 +54,7 @@
   
   
   - 说明书
-      - [1090NP(J4125)](https://github.com/LarryWonss/LarryWonss.github.io/raw/main/docs/%E4%B8%BB%E6%9D%BF%E8%AF%B4%E6%98%8E%E4%B9%A6/1090NP(J4125)-12%20%20V1.3y%20%E8%A7%84%E6%A0%BC%E4%B9%A6.pdf)
+      - [1090NP(J4125)](https://github.com/LarryWonss/LarryWonss.github.io/blob/main/docs/others/1090NP(J4125)-12%20%20V1.3y%20%E8%A7%84%E6%A0%BC%E4%B9%A6.pdf)
 
 
 - **加入讨论群**

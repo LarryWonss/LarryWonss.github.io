@@ -1,6 +1,6 @@
 # N5105/N5095/N6005 BIOS 2022/3/30更新
 
-[![](https://img.shields.io/badge/下载-BIOS-brightgreen)](https://github.com/LarryWonss/LarryWonss.github.io/raw/main/docs/%E4%B8%BB%E6%9D%BF%E8%AF%B4%E6%98%8E%E4%B9%A6/BIOS%20for%20N5105:N5095:N6005%202022:03:30%20Updated.zip)
+[![](https://img.shields.io/badge/下载-BIOS-brightgreen)](https://github.com/LarryWonss/LarryWonss.github.io/raw/main/docs/others/BIOS_for_N5105_N5095_N6005%202022_03_30_Updated.zip)
 
 > [!note]
 >
@@ -18,10 +18,10 @@
 
 
 
-**更新教程**[![](https://img.shields.io/badge/下载-BIOS-brightgreen)](https://github.com/LarryWonss/LarryWonss.github.io/raw/main/docs/%E4%B8%BB%E6%9D%BF%E8%AF%B4%E6%98%8E%E4%B9%A6/BIOS%20for%20N5105:N5095:N6005%202022:03:30%20Updated.zip)
+**更新教程**[![](https://img.shields.io/badge/下载-BIOS-brightgreen)](https://github.com/LarryWonss/LarryWonss.github.io/raw/main/docs/others/BIOS_for_N5105_N5095_N6005%202022_03_30_Updated.zip)
 
 1. 将优盘格式化成`FAT32`格式；
-2. 将下载的BIOS文件（.zip格式）解压出来的到`EFI` 文件夹；[![](https://img.shields.io/badge/下载-BIOS-brightgreen)](https://github.com/LarryWonss/LarryWonss.github.io/raw/main/docs/%E4%B8%BB%E6%9D%BF%E8%AF%B4%E6%98%8E%E4%B9%A6/BIOS%20for%20N5105:N5095:N6005%202022:03:30%20Updated.zip)
+2. 将下载的BIOS文件（.zip格式）解压出来的到`EFI` 文件夹；[![](https://img.shields.io/badge/下载-BIOS-brightgreen)](https://github.com/LarryWonss/LarryWonss.github.io/raw/main/docs/others/BIOS_for_N5105_N5095_N6005%202022_03_30_Updated.zip)
 3. 将`EFI`文件夹的`所有文件`复制到优盘`根目录`;
 4. 机器上电后，按`F7`进入bios刷写界面；
    
