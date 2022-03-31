@@ -1,7 +1,5 @@
 # N5105/N5095/N6005 BIOS 2022/3/30更新
 
-[![](https://img.shields.io/badge/下载-BIOS-brightgreen)](https://github.com/LarryWonss/LarryWonss.github.io/raw/main/docs/others/BIOS_for_N5105_N5095_N6005%202022_03_30_Updated.zip)
-
 > [!note]
 >
 > 更新日志：
@@ -18,7 +16,12 @@
 
 
 
-**更新教程**[![](https://img.shields.io/badge/下载-BIOS-brightgreen)](https://github.com/LarryWonss/LarryWonss.github.io/raw/main/docs/others/BIOS_for_N5105_N5095_N6005%202022_03_30_Updated.zip)
+**更新教程**
+
+> [!warning]
+>
+> 更新BIOS是比较⚠️危险⚠️的操作，谨慎考虑是否更新。**更新失败**⚠️会导致机器*无法开机*；本教程近针对本渠道所出N5095、N5105、N6005有效。因操作失误导致更新BIOS失败无法开机等后果，需要消费者自行寄回（消费者需承担来回运费）售后强刷。
+> [![](https://img.shields.io/badge/下载-BIOS-brightgreen)](https://github.com/LarryWonss/LarryWonss.github.io/raw/main/docs/others/BIOS_for_N5105_N5095_N6005%202022_03_30_Updated.zip)
 
 1. 将优盘格式化成`FAT32`格式；
 2. 将下载的BIOS文件（.zip格式）解压出来的到`EFI` 文件夹；[![](https://img.shields.io/badge/下载-BIOS-brightgreen)](https://github.com/LarryWonss/LarryWonss.github.io/raw/main/docs/others/BIOS_for_N5105_N5095_N6005%202022_03_30_Updated.zip)
