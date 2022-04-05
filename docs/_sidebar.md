@@ -57,7 +57,7 @@
   
   - 说明书
       - **[1090NP-J4125](https://github.com/LarryWonss/LarryWonss.github.io/blob/main/docs/others/1090NP(J4125)-12%20%20V1.3y%20%E8%A7%84%E6%A0%BC%E4%B9%A6.pdf)**
-      - **[N6000系列：N5095|N5105|N6005]()**
+      - **[N6000系列：N5095|N5105|N6005](https://github.com/LarryWonss/LarryWonss.github.io/blob/main/docs/others/Manual_for_CW-N6000.pdf)**
 
 
 - **加入讨论群**
