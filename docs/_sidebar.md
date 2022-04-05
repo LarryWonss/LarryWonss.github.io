@@ -8,7 +8,7 @@
   - [1.3 OpenWrt系统安装](/基础知识/OpenWrt系统安装.md)
   - [1.4 网络拓扑图结构](/基础知识/网络拓扑图.md)
   - [1.5 基础网络设置](/基础知识/基础网络设置.md)
-  - **[固件推荐](/基础知识/固件推荐.md)**
+  - [![](https://img.shields.io/badge/%E5%9B%BA%E4%BB%B6-%E6%8E%A8%E8%8D%90-orange)](/基础知识/固件推荐.md)
   
 - 进阶指南
 
@@ -31,7 +31,7 @@
   - [3.3 Docker部署青龙](/高级玩法/Docker部署青龙.md)
   
   - [3.4 测速与跑分](/高级玩法/测速与跑分.md)
-    [跑分数据库](/高级玩法/测速与跑分datasheet.md)
+    [![](https://img.shields.io/badge/%E5%8A%A0%E8%A7%A3%E5%AF%86%E8%B7%91%E5%88%86-%E6%95%B0%E6%8D%AE%E5%BA%93-blue)](/高级玩法/测速与跑分datasheet.md)
   
   - [3.5 内网广告过滤](/高级玩法/内网广告过滤.md)
   
@@ -45,9 +45,9 @@
   - [选购指南｜2022.03](/选购指南/2022.03推荐.md)
   - [Buying Guide ｜2022.03](/选购指南/BuyingGuide.md)
   
-- BIOS及说明书下载
+- **BIOS**及***说明书***下载
   
-  - BIOS
+  - [![](https://img.shields.io/badge/BIOS-%E6%9B%B4%E6%96%B0-orange)](/others/)
     - [N5095/N5105/N6005 - 2022.03.30](/others/BIOS_Update_for_N5105_5095_6005.md)
   
   
