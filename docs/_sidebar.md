@@ -45,9 +45,11 @@
   - [选购指南｜2022.03](/选购指南/2022.03推荐.md)
   - [Buying Guide ｜2022.03](/选购指南/BuyingGuide.md)
   
-- **🤩BIOS**及***说明书***下载
+
+- **BIOS**及*说明书*下载
+
   
-  - [![](https://img.shields.io/badge/BIOS-%E6%9B%B4%E6%96%B0-orange)](/others/)
+  - [![](https://img.shields.io/badge/BIOS-%E6%9B%B4%E6%96%B0-orange)]
     - [N5095/N5105/N6005 - 2022.03.30](/others/BIOS_Update_for_N5105_5095_6005.md)
   
   
@@ -57,6 +59,12 @@
 
 
 - 🎟️**加入讨论群**
+
+      - [1090NP-J4125](https://github.com/LarryWonss/LarryWonss.github.io/blob/main/docs/others/1090NP(J4125)-12%20%20V1.3y%20%E8%A7%84%E6%A0%BC%E4%B9%A6.pdf)
+      - [N6000系列：N5095|N5105|N6005](https://github.com/LarryWonss/LarryWonss.github.io/blob/main/docs/others/Manual_for_CW-N6000.pdf)
+      - [N6000系列BIOS说明书](https://github.com/LarryWonss/LarryWonss.github.io/blob/main/docs/others/BIOS_Manual_CW-N6000.pdf)
+  
+- **加入讨论群**
   - [Telegram](/加入讨论群/telegram.md)
   - [QQ群](/加入讨论群/qq.md)
   - [微信群](/加入讨论群/wechat.md)
