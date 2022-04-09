@@ -51,7 +51,8 @@
 5. 选择UEFI：`U盘（UEFI + U盘名称）`选项
 
 6. 进入到`UEFI：U盘`后，按`1`进行烧录
-    （*如果cd命令报错，请忽视*）；
+    （*如果出现如下图的cd命令报错，请忽视*）；
+    ![image-20220409135512801](https://s2.loli.net/2022/04/09/GTaBCg1qmZvckIJ.png)
 
 7. 等待**自动烧录完成**（会出现`process completed`相关字样，如下图），重启主机即可完成更新。
     ![IMG_1236](https://iswott.oss-cn-shenzhen.aliyuncs.com/blog/imgIMG_1236.jpg)
