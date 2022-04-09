@@ -30,11 +30,19 @@
 
     - 格式化工具下载：[![](https://img.shields.io/badge/下载-格式化工具-brightgreen)](https://github.com/LarryWonss/LarryWonss.github.io/blob/main/docs/others/HP%E4%BC%98%E7%9B%98%E5%90%AF%E5%8A%A8%E7%9B%98%E6%A0%BC%E5%BC%8F%E5%8C%96%E5%B7%A5%E5%85%B7.zip)
     - 格式化步骤：
-      ![使用说明图解](https://s2.loli.net/2022/03/30/GLehRtDQarxkow2.png)
+      ![图例](https://s2.loli.net/2022/04/09/mqG4M2pDV8riXsy.png)
+      
+      > [!warning]
+      >
+      > 使用该工具格式化后的优盘默认开启了`写入保护`(再次使用该工具格式化会提示);
+      >
+      > <img src="https://s2.loli.net/2022/04/09/RDVdjhpZSHXTlir.png" alt="image-20220409134532471" style="zoom: 33%;" />
+      >
+      > 关于如何解决写保护的问题，可以参考：[百度经验](https://jingyan.baidu.com/article/a65957f4377d0d24e67f9bb0.html)
 
 2. 将下载的BIOS文件（.zip格式）解压出来的到`EFI` 文件夹；[![](https://img.shields.io/badge/下载-BIOS-brightgreen)](https://github.com/LarryWonss/LarryWonss.github.io/raw/main/docs/others/BIOS_for_N5105_N5095_N6005%202022_03_30_Updated.zip)
 
-3. 将`EFI`文件夹的`所有文件`复制到优盘`根目录`;
+3. 将`EFI文件夹`的复制到优盘`根目录`;
 
 4. 机器上电后，按`F7`进入bios刷写界面；
    
@@ -42,7 +50,8 @@
     
 5. 选择UEFI：`U盘（UEFI + U盘名称）`选项
 
-6. 进入到`UEFI：U盘`后，按`1`进行烧录；
+6. 进入到`UEFI：U盘`后，按`1`进行烧录
+    （*如果cd命令报错，请忽视*）；
 
 7. 等待**自动烧录完成**（会出现`process completed`相关字样，如下图），重启主机即可完成更新。
     ![IMG_1236](https://iswott.oss-cn-shenzhen.aliyuncs.com/blog/imgIMG_1236.jpg)
