@@ -4,8 +4,8 @@
 
 - **QQ群号：**
 
-  - 1群：658540319
-  - 2群：待公布
+  - 群号码：658540319
+    <img src="https://pbs.twimg.com/media/FVMHFCuaMAAWOpa?format=jpg&name=large" style="zoom:25%;" />
   
   **QQ群规则：**
   
