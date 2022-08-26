@@ -34,37 +34,40 @@
 - 🕍**Docker好玩项目**
   
   
-  - Portioner
-  - Alist 
-  - bitwarden
-  - easeimage
-  - librespeed
-  - photoprism
-  - openspeedtest
-  - qinglong
-  - nginx proxy manager
-  - nextcloud
-  - WizNote 为知笔记
-  - lsky pro兰空图床
-  - Uptime Kuma
-  - jellyfin
-  - 2fauth
-  - qbtorrent
-  - transmission
-  - snycthing
-  - arang
-  - youtubedl
-  - [Immich:](https://github.com/immich-app/immich)
-  - Calibre
-  - squoosh
-  - [reader](https://github.com/hectorqin/reader)
-  - filebroswer
-  - ddns-updater
-  - trwebOCR
-  - [flare个人导航页](https://github.com/soulteary/docker-flare)
-  - Hemidall
-  - check酱
-  - 
+  - 4.1 Portioner
+  - 4.2 Alist 
+  - 4.3 bitwarden
+  - 4.4 easeimage
+  - 4.5 librespeed
+  - 4.6 photoprism
+  - 4.7 openspeedtest
+  - 4.8 qinglong
+  - 4.9 nginx proxy manager
+  - 4.10 nextcloud
+  - 4.11 WizNote 为知笔记
+  - 4.12 lsky pro兰空图床
+  - 4.13 Uptime Kuma
+  - 4.14 jellyfin
+  - 4.15 2fauth
+  - 4.16 qbtorrent
+  - 4.17 transmission
+  - 4.18 snycthing
+  - 4.19 arang
+  - 4.20 youtubedl
+  - [4.21 Immich:](https://github.com/immich-app/immich)
+  - 4.22 Calibre
+  - 4.23 squoosh
+  - [4.24 reader](https://github.com/hectorqin/reader)
+  - 4.25 filebroswer
+  - 4.26 ddns-updater
+  - 4.27 trwebOCR
+  - [4.28 flare个人导航页](https://github.com/soulteary/docker-flare)
+  - 4.29 Hemidall
+  - 4.30 check酱
+  - 4.31 Nas-tools
+  - 4.32 RClone
+  - 4.33 Aria2-Pro
+  - 4.34 Netdata
 - 🕋选购指南
   - [推(qia)荐(fan)原则](/recommendation/推(qia)荐(fan)原则.md)
   - [选购指南｜2022.06](/recommendation/2022.06推荐.md)
