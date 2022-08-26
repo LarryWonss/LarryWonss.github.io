@@ -34,7 +34,37 @@
 - 🕍**Docker好玩项目**
   
   
-  - 留坑位，待补充
+  - Portioner
+  - Alist 
+  - bitwarden
+  - easeimage
+  - librespeed
+  - photoprism
+  - openspeedtest
+  - qinglong
+  - nginx proxy manager
+  - nextcloud
+  - WizNote 为知笔记
+  - lsky pro兰空图床
+  - Uptime Kuma
+  - jellyfin
+  - 2fauth
+  - qbtorrent
+  - transmission
+  - snycthing
+  - arang
+  - youtubedl
+  - [Immich:](https://github.com/immich-app/immich)
+  - Calibre
+  - squoosh
+  - [reader](https://github.com/hectorqin/reader)
+  - filebroswer
+  - ddns-updater
+  - trwebOCR
+  - [flare个人导航页](https://github.com/soulteary/docker-flare)
+  - Hemidall
+  - check酱
+  - 
 - 🕋选购指南
   - [推(qia)荐(fan)原则](/recommendation/推(qia)荐(fan)原则.md)
   - [选购指南｜2022.06](/recommendation/2022.06推荐.md)
