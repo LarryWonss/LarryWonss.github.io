@@ -37,7 +37,7 @@
   - 🗂4.2 Alist 
   - 🔐4.3 bitwarden
   - 🖼4.4 easeimage
-  - 🔖[4.5 librespeed](/Docker/LibreSpeed.md)
+  - [🔖4.5 librespeed](/Docker/LibreSpeed.md)
   - 🖥4.6 photoprism
   - ⌛️4.7 openspeedtest
   - 💽4.8 qinglong
@@ -55,7 +55,7 @@
   - 💿4.20 youtubedl
   - [🪗4.21 Immich:](https://github.com/immich-app/immich)
   - 📕4.22 Calibre
-  - 📭[4.23 squoosh](/Docker/squoosh.md)
+  - [📭4.23 squoosh](/Docker/squoosh.md)
   - [📖4.24 reader](https://github.com/hectorqin/reader)
   - 📁4.25 filebroswer
   - 🚦4.26 ddns-updater
