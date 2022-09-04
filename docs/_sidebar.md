@@ -48,14 +48,14 @@
   - 🗓4.13 Uptime Kuma
   - 🎞4.14 jellyfin
   - 🧸4.15 2fauth
-  - 🗳4.16 qbtorrent
+  - 🗳4.16 qbitorrent
   - 🗃4.17 transmission
   - 🖇4.18 snycthing
   - 🔍4.19 arang
   - 💿4.20 youtubedl
   - [🪗4.21 Immich:](https://github.com/immich-app/immich)
   - 📕4.22 Calibre
-  - 📭4.23 squoosh
+  - 📭[4.23 squoosh](/Docker/squoosh.md)
   - [📖4.24 reader](https://github.com/hectorqin/reader)
   - 📁4.25 filebroswer
   - 🚦4.26 ddns-updater
