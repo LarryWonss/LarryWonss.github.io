@@ -37,7 +37,7 @@
   - 🗂4.2 Alist 
   - 🔐4.3 bitwarden
   - 🖼4.4 easeimage
-  - 🔖4.5 librespeed
+  - 🔖[4.5 librespeed](/Docker/LibreSpeed.md)
   - 🖥4.6 photoprism
   - ⌛️4.7 openspeedtest
   - 💽4.8 qinglong
