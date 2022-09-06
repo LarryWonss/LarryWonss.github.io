@@ -1,4 +1,4 @@
-<h1><center>欢迎入坑</center>
+# 欢迎入坑
 
 <hr>
 
