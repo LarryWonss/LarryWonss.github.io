@@ -22,24 +22,25 @@
    ```
 
 2. 接着，下载并安装Portainer服务器容器：
-   ```shell
-   docker run -d -p 8000:8000 -p 9443:9443 --name portainer \
-       --restart=always \
-       -v /var/run/docker.sock:/var/run/docker.sock \
-       -v portainer_data:/data \
-       portainer/portainer-ce:2.9.3
+   ```dockerfile
+   docker run -d -p 8000:8000 -p 9443:9443 --name=portainer \
+   	--restart=always \
+   	-v /var/run/docker.sock:/var/run/docker.sock \
+   	-v portainer_data:/data \
+   	portainer/portainer-ce:latest
    ```
 
    <small><b>注意：默认portainer会生成并使用自签名SSL证书来保护9443端口，所以在部署完毕后，需要使用https://192.168.x.x:9443 才能进入到portainer后台</b></small>.
 
 3. 上面第二步代码运行完毕，portainer即部署完毕，使用`docker ps`来验证：
    ```shell
-   root@server:~# docker ps
-   CONTAINER ID   IMAGE                          COMMAND                  CREATED       STATUS      PORTS                                                                                  NAMES             
-   de5b28eb2fa9   portainer/portainer-ce:2.9.3   "/portainer"             2 weeks ago   Up 9 days   0.0.0.0:8000->8000/tcp, :::8000->8000/tcp, 0.0.0.0:9443->9443/tcp, :::9443->9443/tcp   portainer
+   root@debian:~# docker ps
+   CONTAINER ID   IMAGE                           COMMAND        CREATED         STATUS         PORTS                                                                                            NAMES
+   634a112e4f6a   portainer/portainer-ce:latest   "/portainer"   5 minutes ago   Up 5 minutes   0.0.0.0:8000->8000/tcp, :::8000->8000/tcp, 0.0.0.0:9443->9443/tcp, :::9443->9443/tcp, 9000/tcp   portainer
+   root@debian:~#
    ```
 
-
+![image.png](https://s2.loli.net/2022/09/06/2ojXbvZaCKLsJ76.png)
 
 
 

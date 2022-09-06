@@ -24,7 +24,7 @@
 **开始前的疑问解答**
 
 1. 虚拟机底层用PVE好还是ESXi好？
-   <br>**<small>答：</small>** PVE是开源，基于Debain系统的底层虚拟机系统；而ESXi是商业闭源的虚拟机解决方案，需要使用激活码**<small>（百度找）</small>**激活。推荐尊重知识产权，使用PVE的底层虚拟机。
+   <br>**<small>答：</small>** PVE是开源，基于Debain系统的底层虚拟机系统；而ESXi是商业闭源的虚拟机解决方案，需要使用激活码 **<small>（百度找）</small>** 激活。推荐尊重知识产权，使用PVE的底层虚拟机。
    
    <hr>
    
@@ -32,7 +32,7 @@
    **<small>答：</small>** 关于如何安装，在本wiki页面的**高级玩法**板块有相关教程指导如何安装。
 
 3. PVE系统如何设置硬件（网卡、USB、显卡等）直通？<br>
-   **<small>答：</small>** 硬件直通，请参考这位大佬的**[文章教程](https://never666.uk/1631/)**
+   **<small>答：</small>** 硬件直通，请参考这位大佬的 **[文章教程](https://never666.uk/1631/)**
 
    <hr>
 
@@ -55,9 +55,9 @@
 
    **<small>答：</small>**<br>
 
-   - 看得懂英文：请查看[官网教程](https://docs.docker.com/engine/insta ll/debian/)
+   - 看得懂英文：请查看  **[官网教程](https://docs.docker.com/engine/install/debian/)** 
 
-   - 大白话中文**<small>（所有操作在命令行下）</small>**：
+   - 大白话中文 **<small>（所有操作在命令行下）</small>** ：
 
      1. ssh连接上debian虚拟机：`ssh username@192.168.x.x`;
 
