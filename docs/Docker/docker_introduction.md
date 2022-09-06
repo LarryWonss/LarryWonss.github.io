@@ -19,24 +19,25 @@
 
   ![image.png](https://s2.loli.net/2022/09/06/gLXJ5SmxZ9EdzPQ.png)
 
-<hr>
+
+
 **开始前的疑问解答**
 
-
 1. 虚拟机底层用PVE好还是ESXi好？
-   **<small>答：</small>**PVE是开源，基于Debain系统的底层虚拟机系统；而ESXi是商业闭源的虚拟机解决方案，需要使用激活码**<small>（百度找）</small>**激活。推荐尊重知识产权，使用PVE的底层虚拟机。
+   <br>**<small>答：</small>**PVE是开源，基于Debain系统的底层虚拟机系统；而ESXi是商业闭源的虚拟机解决方案，需要使用激活码**<small>（百度找）</small>**激活。推荐尊重知识产权，使用PVE的底层虚拟机。
+   
    <hr>
-
-2. PVE底层虚拟机如何安装？
+   
+2. PVE底层虚拟机如何安装？<br>
    **<small>答：</small>**关于如何安装，在本wiki页面的**高级玩法**板块有相关教程指导如何安装。
 
-3. PVE系统如何设置硬件（网卡、USB、显卡等）直通？
+3. PVE系统如何设置硬件（网卡、USB、显卡等）直通？<br>
    **<small>答：</small>**硬件直通，请参考这位大佬的**[文章教程](https://never666.uk/1631/)**
 
    <hr>
 
-4. 如何获取PVE下的Debian虚拟机的内网IP地址？
-   **<small>答：</small>**有以下两种方式获取目标debian的内网IP地址：
+4. 如何获取PVE下的Debian虚拟机的内网IP地址？<br>
+   **<small>答：</small>**有以下两种方式获取目标debian的内网IP地址：<br>
 
    - 在上级路由器下查看新接入设备IP：启动Debian-KVM后，虚拟机会作为一台设备显示在上级路由器中；
 
@@ -50,9 +51,9 @@
 
      <hr>
 
-5. Debian如何安装Docker？
+5. Debian如何安装Docker？<br>
 
-   **<small>答：</small>**
+   **<small>答：</small>**<br>
 
    - 看得懂英文：请查看[官网教程](https://docs.docker.com/engine/insta ll/debian/)
 
