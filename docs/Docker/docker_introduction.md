@@ -5,7 +5,7 @@
 
 如果您有更好的docker的镜像，也欢迎您与我们一起分享。
 
-<h4><center>教程环境</center>
+**教程环境**
 
 <small>注：PVE底层本来就是Debian系统，所以本教程适用于使用PVE直接作为虚拟机环境，安装Docker。我这边为了不影响底层PVE虚拟机，故使用Debian-KVM进行教程，也推荐对Debian不是太熟悉的小伙伴这么操作，防止弄崩底层PVE虚拟机</small>
 
@@ -20,8 +20,8 @@
   ![image.png](https://s2.loli.net/2022/09/06/gLXJ5SmxZ9EdzPQ.png)
 
 <hr>
+**开始前的疑问解答**
 
-<h4><center>开始前的疑问解答</center>
 
 1. 虚拟机底层用PVE好还是ESXi好？
    **<small>答：</small>**PVE是开源，基于Debain系统的底层虚拟机系统；而ESXi是商业闭源的虚拟机解决方案，需要使用激活码**<small>（百度找）</small>**激活。推荐尊重知识产权，使用PVE的底层虚拟机。
