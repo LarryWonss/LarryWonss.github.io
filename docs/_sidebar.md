@@ -34,7 +34,7 @@
 - **🐳Docker好玩项目**
   - [🥇:::写在前面](/Docker/docker_introduction.md)
   - [🕹4.1 Portainer](/Docker/portainer.md)
-  - 🗂4.2 Alist 
+  - [🗂4.2 Alist ](/Docker/Alist.md)
   - 🔐4.3 bitwarden
   - 🖼4.4 easeimage
   - [🔖4.5 librespeed](/Docker/LibreSpeed.md)

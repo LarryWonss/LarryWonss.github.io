@@ -16,6 +16,8 @@
 
 > 上一个板块，我们分享了如何安装docker容器，那么接下来的在docker容器中安装docker程序将会非常简单
 
+<small><b>默认：所有操作均为ssh到Debian-KVM下操作</b></small>.
+
 1. 首先，创建用于存放portainer数据库的数据卷；
    ```shell
    docker volume create portainer_data
