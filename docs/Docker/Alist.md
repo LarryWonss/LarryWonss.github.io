@@ -1,6 +1,6 @@
 # Alist - 高颜值易用的网盘神器
 
-> 感谢 Xh0fe 大神的分享。
+> 感谢 Xh0fe 大神的分享。<br>
 > 关注大神： [![](https://img.shields.io/badge/Xh0fe-Twitter-blue)](https://twitter.com/Xh0fe)  | [![](https://img.shields.io/badge/Xh0fe-Blog-red)](https://nn.ci/)  | [![](https://img.shields.io/badge/Xh0fe-Github-blue)](https://github.com/Xhofe) | [![](https://img.shields.io/badge/Alist-Dockerhub-blue)](https://registry.hub.docker.com/r/xhofe/alist/)
 
 
@@ -28,7 +28,7 @@
    ![image.png](https://s2.loli.net/2022/09/06/gcfa7oW8Dq5vIlj.png)
 
 5. 关于如何使用Alist部署网盘服务，可以到作者的wiki站点进行学习。
-   传送门：**[Alist Doc](https://alist-doc.nn.ci/docs/intro)**
+   传送门： **[Alist Doc](https://alist-doc.nn.ci/docs/intro)**
 
 <hr>
 
