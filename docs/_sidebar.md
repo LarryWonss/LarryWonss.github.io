@@ -40,7 +40,7 @@
   - [🔖4.5 LibreSpeed](/Docker/LibreSpeed.md)
   - [🖥4.6 PhotoPrism](/Docker/photoprism.md)
   - [⌛️4.7 OpenSpeedTest](/Docker/OpenSpeedTest.md)
-  - 💽4.8 qinglong
+  - [💽4.8 Qinglong](/Docker/qinglong.md)
   - 🧱4.9 nginx proxy manager
   - 📡4.10 nextcloud
   - 📑4.11 WizNote 为知笔记
