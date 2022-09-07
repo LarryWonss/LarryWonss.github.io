@@ -35,11 +35,11 @@
   - [🥇:::写在前面](/Docker/docker_introduction.md)
   - [🕹4.1 Portainer](/Docker/portainer.md)
   - [🗂4.2 Alist ](/Docker/Alist.md)
-  - [🔐4.3 bitwarden](/Docker/bitwarden.md)
-  - [🖼4.4 easeimage](/Docker/easyimage.md)
-  - [🔖4.5 librespeed](/Docker/LibreSpeed.md)
-  - 🖥4.6 photoprism
-  - ⌛️4.7 openspeedtest
+  - [🔐4.3 Bitwarden](/Docker/bitwarden.md)
+  - [🖼4.4 EasyImage](/Docker/easyimage.md)
+  - [🔖4.5 LibreSpeed](/Docker/LibreSpeed.md)
+  - [🖥4.6 PhotoPrism](/Docker/photoprism.md)
+  - [⌛️4.7 OpenSpeedTest](/Docker/OpenSpeedTest.md)
   - 💽4.8 qinglong
   - 🧱4.9 nginx proxy manager
   - 📡4.10 nextcloud
