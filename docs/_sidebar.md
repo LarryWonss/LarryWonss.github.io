@@ -41,7 +41,7 @@
   - [🖥4.6 PhotoPrism](/Docker/photoprism.md)
   - [⌛️4.7 OpenSpeedTest](/Docker/OpenSpeedTest.md)
   - [💽4.8 Qinglong](/Docker/qinglong.md)
-  - 🧱4.9 nginx proxy manager
+  - [🧱4.9 Nginx Proxy Manager](/Docker/nginxproxymanager.md)
   - 📡4.10 nextcloud
   - 📑4.11 WizNote 为知笔记
   - 📰4.12 lsky pro兰空图床
